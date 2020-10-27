@@ -1,6 +1,8 @@
 ## vmmap-win-cmd
-get process vmmap on windows, just like cat /proc/PID/maps in linux
-the src code changed from https://github.com/twpol/vmmap , but I modify the protection str(and not completed yet, so do not pay attention to the protection str)
+1. get process vmmap on windows, just like cat /proc/PID/maps in linux
+
+## attention
+1. the protection str is wrong
 
 ## usage
 > 1. vmmap -pid \<pid>
@@ -13,3 +15,6 @@ the src code changed from https://github.com/twpol/vmmap , but I modify the prot
 ## photos
 
 ![](https://github.com/Byzero512/vmmap_windows_comandline/raw/master/show.jpg)
+
+## ref
+1. https://github.com/twpol/vmmap
