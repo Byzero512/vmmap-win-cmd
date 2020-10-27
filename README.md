@@ -5,7 +5,7 @@
 1. the protection str is wrong
 
 ## usage
-> 1. vmmap -pid \<pid>
+1. vmmap -pid \<pid>
 
 ## install
 download from releases
