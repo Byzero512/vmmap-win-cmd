@@ -8,9 +8,7 @@
 > 1. vmmap -pid \<pid>
 
 ## install
-1. download the release source code, and use vs2017 to compile it into 64bits and 32bits
-    + there are vmmap compiled(both 64bits and 32 bits) in the release package
-
+download from releases
 
 ## photos
 
